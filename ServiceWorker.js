@@ -1,9 +1,9 @@
 const cacheName = "Ophatapioka-Guess the Password-1.0";
 const contentToCache = [
-    "Build/guess 1.3.0.loader.js",
-    "Build/guess 1.3.0.framework.js",
-    "Build/guess 1.3.0.data",
-    "Build/guess 1.3.0.wasm",
+    "Build/guess 1.3.3.loader.js",
+    "Build/guess 1.3.3.framework.js",
+    "Build/guess 1.3.3.data",
+    "Build/guess 1.3.3.wasm",
     "TemplateData/style.css"
 
 ];
